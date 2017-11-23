@@ -49,7 +49,7 @@
 •	Коэффициент резерва 0.1 (10%)
 •	Первоначальная цена 0.001 ETH за 1 Orgon 
 
-***Протокол Jast Price (Jast Price Protocol)***
+***Протокол Just Price (Just Price Protocol)***
 ---
 ORG - Количество ORG, 
 ETH — количество ETH,
